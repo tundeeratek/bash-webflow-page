@@ -88,7 +88,7 @@ const GetInTouchWrapper = styled.div`
   flex-direction: row;
   justify-content: flex-start;
   align-items: center;
-  padding: 0px;
+
 
   gap: 20px;
   width: 100%;
@@ -100,7 +100,9 @@ const SocialsWrapper = styled.div`
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
-  padding: 40px 0px;
+  padding-top:40px;
+  padding-bottom:40px;
+
   width: 100%;
   max-width: 100%;
 
